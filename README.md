@@ -1,3 +1,14 @@
+## Servicios de AWS utilizados en el curso
+
+En este curso se utilizan los siguientes servicios y recursos de AWS:
+
+- **VPC** y **Security Groups**
+- **ALB** (Application Load Balancer), **Target Groups** y **Listener Rules**
+- **S3** y **CDN** (CloudFront)
+- **RDS** y **Secrets Manager**
+- **ECR** (Elastic Container Registry)
+- **Fargate**
+
 # Netflux AWS
 
 Este proyecto es un ejemplo desarrollado como parte del curso **"AWS Cloud Architecture For Java Spring Boot Developers"** en Udemy.
@@ -12,7 +23,7 @@ Puedes probar el aplicativo desplegado en AWS en el siguiente enlace:
 
 A continuación se muestra una imagen de referencia de la interfaz de usuario del sistema:
 
-![Ejemplo de interfaz de Netflux](capture.png)
+<img src="capture.png" alt="Ejemplo de interfaz de Netflux" width="400"/>
 
 ---
 
